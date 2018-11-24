@@ -20,7 +20,7 @@ Collaborators :
 - Lecture 5 : Sets, Tuples, Dictionaries and Random Numbers
 - Lecture 6 : Classes
 - Lecture 7 : Working inside a terminal, Imports, Debugging, Documentation, Online forums
-- Project : Implementing a Yahtzee
+- Project : Implementing a Yahtzee, see yahtzee_instructions PDF for instructions
 
 ## References
 
