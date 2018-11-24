@@ -28,6 +28,7 @@ Collaborators :
 - https://www.w3schools.com/python/
 - http://introtopython.org/
 - https://docs.python.org/3/
+- https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/
 - LEARNING TO PROGRAM WITH PYTHON, Richard L. Halterman
 - MISE's 2017 tutorial
 
