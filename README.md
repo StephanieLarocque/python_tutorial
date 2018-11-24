@@ -8,8 +8,8 @@ Collaborators :
 
 ## Requirements
 
-- Python 3 : TODO link
-- Jupyter Notebook : TODO link
+- Python 3 : https://www.python.org/downloads/
+- Jupyter Notebook : http://jupyter.org/
 
 ## Lectures
 
