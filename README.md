@@ -4,7 +4,7 @@ This tutorial was intended for a 5-days intensive programming tutorial in Python
 
 Collaborators :
 - Simon Guiroy
-- Lauri Hallila TODO
+- Lauri Hallila
 
 ## Requirements
 
