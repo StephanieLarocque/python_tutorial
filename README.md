@@ -11,7 +11,7 @@ Collaborators :
 - Python 3 : https://www.python.org/downloads/
 - Jupyter Notebook : http://jupyter.org/
 
-## Lectures
+## Topics
 
 - Lecture 1 : Variables, Types, Basic Arithmetics Operators
 - Lecture 2 : Boolean expression, Conditional Execution & Control Flow
@@ -31,5 +31,7 @@ Collaborators :
 - https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/
 - LEARNING TO PROGRAM WITH PYTHON, Richard L. Halterman
 - MISE's 2017 tutorial
+
+Comments and suggestions are welcome!
 
 
