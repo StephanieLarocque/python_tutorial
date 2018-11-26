@@ -1,6 +1,6 @@
 # Python Tutorial
 
-This tutorial was designed for a 5-days intensive programming tutorial in Python, in collaboration with MISE foundation.
+This tutorial was designed for a 5-days intensive hands-on programming tutorial in Python, in collaboration with MISE foundation.
 
 Collaborators :
 - Simon Guiroy
