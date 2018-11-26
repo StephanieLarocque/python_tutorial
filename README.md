@@ -20,7 +20,7 @@ Collaborators :
 - Lecture 5 : Sets, Tuples, Dictionaries and Random Numbers [Theory](5_Theory.ipynb) [Exercises](5_Exercises.ipynb)
 - Lecture 6 : Classes [Theory](6_Theory.ipynb) [Exercises](6_Exercises.ipynb)
 - Lecture 7 : Working inside a terminal, Imports, Debugging, Documentation, Online forums [Theory](7_Theory.ipynb) [Exercises](7_Exercises.ipynb)
-- Project : Implementing a Yahtzee, see yahtzee_instructions PDF for instructions [Instructions](yahtzee_instructions.pdf) [Notebook](yahtzee.ipynb)
+- Project : Implementing the Yahtzee dice game [Instructions](yahtzee_instructions.pdf) [Notebook](yahtzee.ipynb)
 
 ## References
 
