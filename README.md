@@ -13,7 +13,7 @@ Collaborators :
 
 ## Topics
 
-- Lecture 1 : Variables, Types, Basic Arithmetics Operators
+- Lecture 1 : Variables, Types, Basic Arithmetics Operators [theory](1_Theory.ipynb)
 - Lecture 2 : Boolean expression, Conditional Execution & Control Flow
 - Lecture 3 : Using and Writing Functions
 - Lecture 4 : Strings and Lists
